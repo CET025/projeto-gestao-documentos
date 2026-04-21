@@ -1,8 +1,10 @@
-Requisito 1
+Requisito 1 (Prioridade alta)
 Requisito 2
 Requisito 3
-Requisito 4
+Requisito 4 (Prioridade alta)
 Requisito 5
 Requisito 6
 Requisito 7
 Requisito 8
+Requisito 9
+Requisito 10
